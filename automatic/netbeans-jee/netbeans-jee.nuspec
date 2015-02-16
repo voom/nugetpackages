@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>{{PackageName}}</id>
+    <title>NetBeans Java EE</title>
+    <version>{{PackageVersion}}</version>
+    <authors>Oracle Corporation</authors>
+    <owners>Olivier Martin</owners>
+    <summary>An open source IDE for Java (EE) development supporting Java 8.</summary>
+    <description>NetBeans provides an extensible IDE with rich functionality for Java development, such as code analyzers, refactoring tools and converters, which upgrade old language constructs to newer Java 8 concepts in your code (e.g. lambdas, functional operations and method references).</description>
+    <projectUrl>https://netbeans.org/</projectUrl>
+    <tags>netbeans jee ide development admin</tags>
+    <copyright>(c) 1997, 2014, Oracle and/or its affiliates</copyright>
+    <licenseUrl>https://netbeans.org/about/legal/product-licences.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/anchnk/nugetpackages/master/icons/netbeans.png</iconUrl>
+    <dependencies>
+      <dependency id="jdk8" />
+    </dependencies>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
