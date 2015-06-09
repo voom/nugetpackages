@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SublimeText3</id>
+    <version>3.0.0.{{PackageVersion}}</version>
+    <title>Sublime Text 3</title>
+    <authors>Jon Skinner</authors>
+    <owners>Ethan J. Brown</owners>
+    <licenseUrl>http://www.sublimetext.com/eula</licenseUrl>
+    <projectUrl>http://www.sublimetext.com/3</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sublime Text 3 is a sophisticated text editor for code, html and prose. You'll love the slick user interface and extraordinary features. Sublime Text may be downloaded and evaluated for free, however a license must be purchased for continued use.
+    This brings the Sublime Text portable version to your system</description>
+    <summary>Sublime Text 3 is a sophisticated text editor for code, html and prose. You'll love the slick user interface and extraordinary features.</summary>
+    <releaseNotes>http://www.sublimetext.com/3</releaseNotes>
+    <tags>sublime text editor st3</tags>
+    <iconUrl>https://cdn.rawgit.com/anchnk/nugetpackages/master/icons/sublimetext3.png</iconUrl>
+  </metadata>
+</package>
