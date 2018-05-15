@@ -3,18 +3,18 @@
   <metadata>
     <id>{{PackageName}}</id>
     <title>Sublime Text 3</title>
-    <version>3.0.0.{{PackageVersion}}</version>
+    <version>3.1.1.{{PackageVersion}}</version>
     <authors>Jon Skinner</authors>
     <owners>Ethan J. Brown, Olivier Martin</owners>
-    <summary>Sublime Text 3 is a sophisticated text editor for code, html and prose. You'll love the slick user interface and extraordinary features.</summary>
-    <description>Sublime Text 3 is a sophisticated text editor for code, html and prose. You'll love the slick user interface and extraordinary features. Sublime Text may be downloaded and evaluated for free, however a license must be purchased for continued use. Sublime text 3 is currently in beta.</description>
-    <projectUrl>http://www.sublimetext.com/3</projectUrl>
+    <summary>Sublime Text 3 is a sophisticated text editor for code, markup and prose. You'll love the slick user interface and extraordinary features.</summary>
+    <description>Sublime Text 3 is a sophisticated text editor for code, markup and prose. You'll love the slick user interface and extraordinary features. Sublime Text may be downloaded and evaluated for free, however a license must be purchased for continued use. Sublime text 3 is currently in beta.</description>
+    <projectUrl>https://www.sublimetext.com/3</projectUrl>
     <tags>sublime text editor st3 admin beta</tags>
-    <licenseUrl>http://www.sublimetext.com/eula</licenseUrl>
+    <licenseUrl>https://www.sublimetext.com/eula</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <language>en-us</language>
     <packageSourceUrl>https://github.com/anchnk/nugetpackages/tree/master/automatic/sublimetext3</packageSourceUrl>
     <iconUrl>https://cdn.rawgit.com/anchnk/nugetpackages/master/icons/sublimetext3.png</iconUrl>
-    <releaseNotes>http://www.sublimetext.com/3</releaseNotes>
+    <releaseNotes>https://www.sublimetext.com/3</releaseNotes>
   </metadata>
 </package>
